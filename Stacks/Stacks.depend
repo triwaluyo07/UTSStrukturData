@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1540367556 source:d:\latihan uts struktur data - dev\stacks\main.c
+	"header.h"
+
+1540367433 source:d:\latihan uts struktur data - dev\stacks\stack_function.c
+	"header.h"
+
+1540367410 d:\latihan uts struktur data - dev\stacks\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+
+1540367558 source:e:\latihan uts struktur data\stacks\main.c
+	"header.h"
+
+1540367412 e:\latihan uts struktur data\stacks\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+
+1540367434 source:e:\latihan uts struktur data\stacks\stack_function.c
+	"header.h"
+

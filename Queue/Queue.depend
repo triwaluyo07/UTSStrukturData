@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1540369414 source:d:\latihan uts struktur data - dev\queue\queue_function.c
+	"header.h"
+
+1540369447 d:\latihan uts struktur data - dev\queue\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1540369429 source:d:\latihan uts struktur data - dev\queue\main.c
+	"header.h"
+
+1540663811 source:d:\coding\c\str. data\latihan uts struktur data - dev\queue\main.c
+	"header.h"
+
+1540663759 d:\coding\c\str. data\latihan uts struktur data - dev\queue\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1540664647 source:d:\coding\c\str. data\latihan uts struktur data - dev\queue\queue_function.c
+	"header.h"
+
+1540663811 source:e:\latihan uts struktur data\queue\main.c
+	"header.h"
+
+1540663759 e:\latihan uts struktur data\queue\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1540664647 source:e:\latihan uts struktur data\queue\queue_function.c
+	"header.h"
+

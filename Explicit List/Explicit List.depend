@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1540891540 source:d:\coding\c\str. data\latihan uts struktur data - dev\explicit list\main.c
+	"header.h"
+
+1540890223 d:\coding\c\str. data\latihan uts struktur data - dev\explicit list\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+
+1540900632 source:d:\coding\c\str. data\latihan uts struktur data - dev\explicit list\explist_function.c
+	"header.h"
+
